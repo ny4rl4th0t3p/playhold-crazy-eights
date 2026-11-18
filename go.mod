@@ -3,8 +3,8 @@ module github.com/ny4rl4th0t3p/playhold-crazy-eights
 go 1.27.4
 
 require (
-	github.com/ny4rl4th0t3p/playhold v0.3.1-0.20261117204147-5ab19188314c
-	github.com/ny4rl4th0t3p/playhold-sdk-go v0.3.1-0.20261118102141-4d877b8a59ce
+	github.com/ny4rl4th0t3p/playhold v0.4.0
+	github.com/ny4rl4th0t3p/playhold-sdk-go v0.4.0
 	github.com/stretchr/testify v1.12.1
 	go.opentelemetry.io/otel/sdk v1.47.0
 	go.opentelemetry.io/otel/trace v1.47.0
@@ -38,7 +38,7 @@ require (
 	go.uber.org/multierr v1.11.0 // indirect
 	go.yaml.in/yaml/v3 v3.0.6 // indirect
 	golang.org/x/crypto v0.58.0 // indirect
-	golang.org/x/net v0.61.0 // indirect
+	golang.org/x/net v0.62.0 // indirect
 	golang.org/x/sync v0.24.0 // indirect
 	golang.org/x/sys v0.49.0 // indirect
 	golang.org/x/text v0.43.0 // indirect
