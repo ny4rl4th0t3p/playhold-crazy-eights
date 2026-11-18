@@ -1,0 +1,10 @@
+.git
+.github
+.env
+.env.*
+**/node_modules
+**/dist
+t12-results
+check-certs
+*.log
+*.csv
